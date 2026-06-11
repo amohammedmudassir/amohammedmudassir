@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+<h1 align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF¢er=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mudassir!;ECE+Graduate+%7C+AI%2FML+Engineer;Edge+AI+%7C+Embedded+Systems;Hackathon+Winner+%F0%9F%8F%86+%7C+Patent+Holder+%F0%9F%93%9C;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" /><br></h1><br><br><h3 align="center">Building intelligent systems at the edge — where AI meets hardware</h3><br><br><p align="center"><br>  <a href="https://linkedin.com/in/amohammedmudassir" target="_blank"><br>    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br>  </a><br>  <a href="mailto:your-email@gmail.com"><br>    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br>  </a><br>  <img src="https://komarev.com/ghpvc/?username=amohammedmudassir&label=Profile+Views&color=6C63FF&style=for-the-badge" /><br></p><br><br><br/><br><br>## 👨‍💻 About Me<br><br>> *ECE graduate from Bengaluru who builds AI-powered systems that run on real hardware — not just in the cloud.*<br><br>- 🎓 **B.E. in Electronics & Communication Engineering** — CMR Institute of Technology, Bengaluru (CGPA: 8.36)<br>- 🤖 Interned at **SuprMentr Technologies** — built **DocQuest**, an LLM-powered RAG pipeline using LangChain, FAISS, HuggingFace Embeddings & Groq API<br>- 🐄 **CattleNet** — IoT-based real-time livestock health monitoring system (sensors → cloud → alerts)<br>- 🧠 **NeuroRelief / Painsight** — AI pain-detection system integrated with smart infusion pump<br>- 🚁 **Drone-based pothole detection** — computer vision pipeline for infrastructure monitoring<br>- 🖨️ **Mini CNC Plotter** — built from scratch using embedded systems<br>- 📜 **Patent holder** · 🏆 **National-level Hackathon Winner**<br>- ☁️ **AWS Certified Cloud Practitioner** · **Cadence AI & ML Fundamentals** certified<br>- 🎯 Actively seeking roles in **AI/ML Engineering** and **Embedded / Edge AI**<br>- 📍 Based in **Bengaluru, India** · Open to relocation<br><br><br/>
 
-<!--
-**amohammedmudassir/amohammedmudassir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mudduu.95/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/a-mohammed-mudassir-841523309/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amohammedmudassirr@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=amohammedmudassir&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=amohammedmudassir&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=amohammedmudassir&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amohammedmudassir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://komarev.com/ghpvc/?username=amohammedmudassir&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
