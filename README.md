@@ -101,7 +101,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 NeuroRelief / Painsight</h3>
+      <h3>🧠 Painsight</h3>
       <p>AI-powered pain detection system integrated with a smart infusion pump. Uses computer vision to analyse patient pain levels and automate drug delivery response.</p>
       <p>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -157,9 +157,11 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amohammedmudassir&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=amohammedmudassir&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=6" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=amohammedmudassir&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=6" />
+</p>
 <br/>
 
 ---
