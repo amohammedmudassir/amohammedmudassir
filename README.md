@@ -5,10 +5,10 @@
 <h3 align="center">Building intelligent systems at the edge — where AI meets hardware</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amohammedmudassir" target="_blank">
+  <a href="https://www.linkedin.com/in/a-mohammed-mudassir-841523309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:amohammedmudassirr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/amohammedmudassir" target="_blank">
